@@ -11,6 +11,6 @@
 
     <!-- The default tiles to display in QuickSettings -->
     <string name="quick_settings_tiles_extra" translatable="false">
-        caffeine,dataswitch,heads_up,livedisplay,reading_mode,anti_flicker,usb_tether
+        caffeine,dataswitch,heads_up,livedisplay,reading_mode,anti_flicker,sync,usb_tether
     </string>
 </resources>
