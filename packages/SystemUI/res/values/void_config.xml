@@ -11,7 +11,7 @@
 
     <!-- The default tiles to display in QuickSettings -->
     <string name="quick_settings_tiles_extra" translatable="false">
-        ambient_display,autobrightness,caffeine,cpuinfo,dataswitch,heads_up,livedisplay,reading_mode,anti_flicker,sync,usb_tether
+        ambient_display,autobrightness,caffeine,cpuinfo,dataswitch,fpsinfo,heads_up,livedisplay,reading_mode,anti_flicker,sync,usb_tether
     </string>
 
     <!-- The CPU temperature sensor path, defaults to empty -->
@@ -22,4 +22,7 @@
 
     <!-- The CPUs to display in CPUInfoService view -->
     <string name="config_displayCpus" translatable="false"></string>
+
+    <!-- FPSInfoService FPS node file path -->
+    <string name="config_fpsInfoSysNode" translatable="false"></string>
 </resources>
