@@ -28,6 +28,7 @@ import com.android.systemui.plugins.qs.QSTileView;
 import com.android.systemui.qs.QSHost;
 import com.android.systemui.qs.external.CustomTile;
 import com.android.systemui.qs.tiles.AirplaneModeTile;
+import com.android.systemui.qs.tiles.AutoBrightnessTile;
 import com.android.systemui.qs.tiles.AlarmTile;
 import com.android.systemui.qs.tiles.AmbientDisplayTile;
 import com.android.systemui.qs.tiles.AntiFlickerTile;
@@ -114,6 +115,7 @@ public class QSFactoryImpl implements QSFactory {
     private final Provider<HeadsUpTile> mHeadsUpTileProvider;
     private final Provider<SyncTile> mSyncTileProvider;
     private final Provider<AmbientDisplayTile> mAmbientDisplayTileProvider;
+    private final Provider<AutoBrightnessTile> mAutoBrightnessTileProvider;
 
     private final Lazy<QSHost> mQsHostLazy;
     private final Provider<CustomTile.Builder> mCustomTileBuilderProvider;
@@ -159,7 +161,8 @@ public class QSFactoryImpl implements QSFactory {
             Provider<AntiFlickerTile> antiFlickerTileProvider,
             Provider<HeadsUpTile> headsUpTileProvider,
             Provider<SyncTile> syncTileProvider,
-            Provider<AmbientDisplayTile> ambientDisplayTileProvider) {
+            Provider<AmbientDisplayTile> ambientDisplayTileProvider,
+            Provider<AutoBrightnessTile> autoBrightnessTileProvider) {
         mQsHostLazy = qsHostLazy;
         mCustomTileBuilderProvider = customTileBuilderProvider;
 
@@ -201,6 +204,7 @@ public class QSFactoryImpl implements QSFactory {
         mHeadsUpTileProvider = headsUpTileProvider;
         mSyncTileProvider = syncTileProvider;
         mAmbientDisplayTileProvider = ambientDisplayTileProvider;
+        mAutoBrightnessTileProvider = autoBrightnessTileProvider;
     }
 
     /** Creates a tile with a type based on {@code tileSpec} */
@@ -292,6 +296,8 @@ public class QSFactoryImpl implements QSFactory {
                 return mSyncTileProvider.get();
             case "ambient_display":
                 return mAmbientDisplayTileProvider.get();
+            case "autobrightness":
+                return mAutoBrightnessTileProvider.get();
         }
 
         // Custom tiles
