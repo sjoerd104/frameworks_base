@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022 VoidUI
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Global actions -->
+    <string name="reboot_to_bootloader_title">إعادة التشغيل إلى bootloader</string>
+    <string name="reboot_to_bootloader_message">إعادة التشغيل إلى وضع الـ bootloader</string>
+    <string name="reboot_to_recovery_title">إعادة تشغيل إلى Recovery</string>
+    <string name="reboot_to_recovery_message">إعادة التشغيل إلى وضع الـ Recovery</string>
+    <string name="reboot_system_title">إعادة تشغيل النظام</string>
+    <string name="reboot_system_message">إعادة تشغيل إلى النظام</string>
+    <!-- LiveDisplay strings -->
+    <string name="live_display_auto">تلقائي</string>
+    <string name="live_display_auto_summary">ضبط درجة حرارة لون الشاشة تلقائياً بعد غروب وشروق الشمس</string>
+    <string name="live_display_off">متوقف</string>
+    <string name="live_display_off_summary">تعطيل جميع التعديلات</string>
+    <string name="live_display_day">يوم</string>
+    <string name="live_display_day_summary">استخدام إعدادات النهار فقط</string>
+    <string name="live_display_night">الليل</string>
+    <string name="live_display_night_summary">استخدام الإعدادات الليلية فقط</string>
+    <string name="live_display_outdoor">خارج المنزل (شمس ساطعة)</string>
+    <string name="live_display_outdoor_summary">استخدم إعدادات خارج المنزل فقط</string>
+    <string name="live_display_hint">يمكن أن تساعد ميزة LiveDisplay في تقليل إجهاد العين ومساعدتك على النوم في الليل. انقر هنا لتجربتها!</string>
+    <string name="accessibility_quick_settings_live_display_off">إيقاف تشغيل LiveDisplay.</string>
+    <string name="accessibility_quick_settings_live_display_auto">LiveDisplay: الوضع التلقائي.</string>
+    <string name="accessibility_quick_settings_live_display_day">LiveDisplay: الوضع النهاري.</string>
+    <string name="accessibility_quick_settings_live_display_night">العرض الحي: الوضع الليلي.</string>
+    <string name="accessibility_quick_settings_live_display_outdoor">LiveDisplay: وضع خارج المنزل.</string>
+    <string name="accessibility_quick_settings_live_display_changed_off">تم إيقاف تشغيل العرض الحي.</string>
+    <string name="accessibility_quick_settings_live_display_changed_auto">تم تغيير العرض الحي إلى الوضع التلقائي.</string>
+    <string name="accessibility_quick_settings_live_display_changed_day">تم تغيير LiveDisplay إلى الوضع اليومي.</string>
+    <string name="accessibility_quick_settings_live_display_changed_night">تم تغيير LiveDisplay إلى الوضع الليلي.</string>
+    <string name="accessibility_quick_settings_live_display_changed_outdoor">تم تغيير الوضع الحي إلى وضع خارج المنزل.</string>
+</resources>

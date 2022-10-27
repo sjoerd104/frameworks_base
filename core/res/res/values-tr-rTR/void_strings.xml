@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022 VoidUI
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Global actions -->
+    <string name="reboot_to_bootloader_title">Önyükleyiciyi yeniden başlat</string>
+    <string name="reboot_to_bootloader_message">Önyükleyiciye yeniden başlatma\u2026</string>
+    <string name="reboot_to_recovery_title">Yeniden başlatma kurtarma</string>
+    <string name="reboot_to_recovery_message">Kurtarma için yeniden başlatma\u2026</string>
+    <string name="reboot_system_title">Sistemi yeniden başlatın</string>
+    <string name="reboot_system_message">Sistem yeniden başlatılıyor\u2026</string>
+    <!-- LiveDisplay strings -->
+    <string name="live_display_auto">Otomatik</string>
+    <string name="live_display_auto_summary">Gün batımı ve gün doğumundan sonra ekranın renk sıcaklığını otomatik olarak ayarlar</string>
+    <string name="live_display_off">Kapalı</string>
+    <string name="live_display_off_summary">Tüm ayarlamaları devre dışı bırak</string>
+    <string name="live_display_day">Gün</string>
+    <string name="live_display_day_summary">Yalnızca gündüz ayarlarını kullanın</string>
+    <string name="live_display_night">Gece</string>
+    <string name="live_display_night_summary">Yalnızca gece ayarlarını kullanın</string>
+    <string name="live_display_outdoor">Dış mekan (parlak güneş)</string>
+    <string name="live_display_outdoor_summary">Yalnızca dış mekan ayarlarını kullanın</string>
+    <string name="live_display_hint">LiveDisplay göz yorgunluğunu azaltmaya ve geceleri uyumanıza yardımcı olabilir. Denemek için buraya tıklayın!</string>
+    <string name="accessibility_quick_settings_live_display_off">LiveDisplay kapalı.</string>
+    <string name="accessibility_quick_settings_live_display_auto">LiveDisplay: otomatik mod.</string>
+    <string name="accessibility_quick_settings_live_display_day">LiveDisplay: gündüz modu.</string>
+    <string name="accessibility_quick_settings_live_display_night">LiveDisplay: gece modu.</string>
+    <string name="accessibility_quick_settings_live_display_outdoor">LiveDisplay: dış mekan modu.</string>
+    <string name="accessibility_quick_settings_live_display_changed_off">LiveDisplay kapalı.</string>
+    <string name="accessibility_quick_settings_live_display_changed_auto">LiveDisplay otomatik moda değiştirildi.</string>
+    <string name="accessibility_quick_settings_live_display_changed_day">LiveDisplay gündüz moduna değiştirildi.</string>
+    <string name="accessibility_quick_settings_live_display_changed_night">LiveDisplay gece moduna değiştirildi.</string>
+    <string name="accessibility_quick_settings_live_display_changed_outdoor">LiveDisplay dış mekan moduna değiştirildi.</string>
+</resources>

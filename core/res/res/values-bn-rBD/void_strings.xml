@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022 VoidUI
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Global actions -->
+    <string name="reboot_to_bootloader_title">বুটলোডারে রিবুট করুন</string>
+    <string name="reboot_to_bootloader_message">বুটলোডার মোডে রিস্টার্ট করা হচ্ছে\u2026</string>
+    <string name="reboot_to_recovery_title">রিকভারিতে রিবুট করুন</string>
+    <string name="reboot_to_recovery_message">রিকভারিতে রিস্টার্ট করা হচ্ছে\u2026</string>
+    <string name="reboot_system_title">সিস্টেম রিস্টার্ট করুন</string>
+    <string name="reboot_system_message">সিস্টেম রিস্টার্ট করা হচ্ছে\u2026</string>
+    <!-- LiveDisplay strings -->
+    <string name="live_display_auto">স্বয়ংক্রিয়</string>
+    <string name="live_display_auto_summary">সূর্যোদয় এবং সূর্যাস্ত এর পরে স্ক্রীন এর রঙের মাত্রা সংক্রীয় ভাবে পরিবর্তীত হবে</string>
+    <string name="live_display_off">বন্ধ করুন</string>
+    <string name="live_display_off_summary">সব পরিবর্তন বাদ দিন</string>
+    <string name="live_display_day">দিন</string>
+    <string name="live_display_day_summary">শুধু দিনের সেটিংস গুলি ব্যবহার করা হোক</string>
+    <string name="live_display_night">রাত</string>
+    <string name="live_display_night_summary">কেবলমাত্র রাতের সেটিংস ব্যাবহার করা হোক</string>
+    <string name="live_display_outdoor">বাইরে( উজ্জ্বল সূর্যালোকে)</string>
+    <string name="live_display_outdoor_summary">কেবল আউটডোর সেটিংস গুলি ব্যবহার করা হোক</string>
+    <string name="live_display_hint">লাইভডিসপ্লে\' চোখের ক্লান্তি হ্রাস করতে এবং রাতে ঘুমাতে সহায়তা করে। ব্যাবহার করতে এখানে ক্লিক করুন!</string>
+    <string name="accessibility_quick_settings_live_display_off">লাইভডিসপ্লে বন্ধ করুন।</string>
+    <string name="accessibility_quick_settings_live_display_auto">লাইভডিসপ্লে: স্বয়ংক্রিয় মোড।</string>
+    <string name="accessibility_quick_settings_live_display_day">লাইভডিসপ্লে: দিনের মোড।</string>
+    <string name="accessibility_quick_settings_live_display_night">লাইভডিসপ্লে: রাতের অবস্থা</string>
+    <string name="accessibility_quick_settings_live_display_outdoor">লাইভডিসপ্লে: বাহিরের মোড।</string>
+    <string name="accessibility_quick_settings_live_display_changed_off">\'লাইভডিসপ্লে\' বন্ধ হয়েছে।</string>
+    <string name="accessibility_quick_settings_live_display_changed_auto">\'লাইভডিসপ্লে\' স্বয়ংক্রিয় অবস্থায় পরিবর্তন হয়েছে।</string>
+    <string name="accessibility_quick_settings_live_display_changed_day">লাইভডিসপ্লে দিনের মোড-এ পরিবর্তিত হয়েছে।.</string>
+    <string name="accessibility_quick_settings_live_display_changed_night">লাইভডিসপ্লে রাতের মোড-এ পরিবর্তিত হয়েছে।</string>
+    <string name="accessibility_quick_settings_live_display_changed_outdoor">\'লাইভডিসপ্লে\' সূর্যালোকের অবস্থায় পরিবর্তিত হয়েছে।</string>
+</resources>

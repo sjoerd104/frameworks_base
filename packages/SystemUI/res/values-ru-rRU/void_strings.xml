@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022 VoidUI
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Screen record -->
+    <string name="screenrecord_stopdot_label">Показать кнопку остановки</string>
+    <string name="screenrecord_stopdot_summary">Зажмите для перемещения</string>
+    <string name="screenrecord_lowquality_label">Низкое качество</string>
+    <string name="screenrecord_lowquality_summary">Для меньшего размера</string>
+    <string name="screenrecord_longer_timeout_switch_label">Максимальный размер файла</string>
+    <string name="screenrecord_longer_timeout_switch_summary">Ограничить размер записи до 15 ГБ</string>
+    <string name="screenrecord_skip_time_label">Пропустить таймер</string>
+    <string name="screenrecord_skip_time_summary">Убрать 3-х секундное ожидание</string>
+    <!-- Power Menu -->
+    <string name="global_action_reboot">Перезагрузка</string>
+    <string name="global_action_reboot_more">Доп. настройки</string>
+    <string name="global_action_reboot_sub">Система</string>
+    <string name="global_action_reboot_recovery">Рекавери</string>
+    <string name="global_action_reboot_bootloader">Загрузчик</string>
+    <string name="global_action_settings">Настройки</string>
+    <!-- Caffeine tile -->
+    <string name="quick_settings_caffeine_label">Запрет сна</string>
+    <string name="accessibility_quick_settings_caffeine_off">Запрет сна отключен</string>
+    <string name="accessibility_quick_settings_caffeine_on">Запрет сна включен</string>
+    <!-- DataSwitch Tile -->
+    <string name="qs_data_switch_label">Поменять SIM для передачи данных</string>
+    <string name="qs_data_switch_toast_0">В настоящее время SIM-карта не вставлена</string>
+    <string name="qs_data_switch_toast_1">В настоящее время вставлена только одна SIM-карта</string>
+    <string name="qs_data_switch_text_1">SIM 1</string>
+    <string name="qs_data_switch_text_2">SIM 2</string>
+    <string name="qs_data_switch_changed_1">SIM-карта для передачи данных переключена на SIM 2</string>
+    <string name="qs_data_switch_changed_2">SIM-карта для передачи данных переключена на SIM 2</string>
+    <!-- USB tethering QS tile -->
+    <string name="quick_settings_usb_tether_label">Точка доступа USB</string>
+    <!-- Reader mode QS tile -->
+    <string name="quick_settings_reading_mode">Режим чтения</string>
+    <string name="accessibility_quick_settings_reading_mode_on">Режим чтения включен.</string>
+    <string name="accessibility_quick_settings_reading_mode_off">Режим чтения выключен.</string>
+    <string name="accessibility_quick_settings_reading_mode_changed_on">Режим чтения активирован.</string>
+    <string name="accessibility_quick_settings_reading_mode_changed_off">Режим чтения деактивирован.</string>
+    <!-- Anti flicker QS tile -->
+    <string name="quick_settings_anti_flicker">Защита от мерцания</string>
+    <!-- Heads up QS tile -->
+    <string name="quick_settings_heads_up_label">Всплывающие уведомления</string>
+    <string name="accessibility_quick_settings_heads_up_off">Всплывающие уведомления откл.</string>
+    <string name="accessibility_quick_settings_heads_up_on">Всплывающие уведомления вкл.</string>
+    <string name="accessibility_quick_settings_heads_up_changed_off">Всплывающие уведомления выключены.</string>
+    <string name="accessibility_quick_settings_heads_up_changed_on">Всплывающие уведомления включены.</string>
+    <!-- Sync QS tile -->
+    <string name="quick_settings_sync_label">Синхронизация</string>
+    <string name="accessibility_quick_settings_sync_off">Синхронизация выключена.</string>
+    <string name="accessibility_quick_settings_sync_on">Синхронизация включена.</string>
+    <string name="accessibility_quick_settings_sync_changed_off">Синхронизация отключена.</string>
+    <string name="accessibility_quick_settings_sync_changed_on">Синхронизация включена.</string>
+    <!-- Ambient display QS tile -->
+    <string name="quick_settings_ambient_display_label">Автоматич. включение экрана</string>
+    <string name="accessibility_quick_settings_ambient_display_off">Индикация событий экраном выключена.</string>
+    <string name="accessibility_quick_settings_ambient_display_on">Индикация событий экраном включена.</string>
+    <string name="accessibility_quick_settings_ambient_display_changed_off">Индикация событий экраном теперь выключена.</string>
+    <string name="accessibility_quick_settings_ambient_display_changed_on">Индикация событий экраном теперь включена.</string>
+    <!-- Auto Brightness QS tile -->
+    <string name="quick_settings_autobrightness_label">Автояркость</string>
+    <!-- CPUInfo tile -->
+    <string name="quick_settings_cpuinfo_label">Информация о CPU</string>
+    <!-- FPS Info tile -->
+    <string name="quick_settings_fpsinfo_label">Отображать количество FPS</string>
+    <!-- FPS view text placeholder -->
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022 VoidUI
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Global actions -->
+    <string name="reboot_to_bootloader_title">Reporniți bootloader</string>
+    <string name="reboot_to_bootloader_message">Se repornește în modul bootloader\u2026</string>
+    <string name="reboot_to_recovery_title">Repornire în recuperare</string>
+    <string name="reboot_to_recovery_message">Repornire în recuperare\u2026</string>
+    <string name="reboot_system_title">Repornire sistem</string>
+    <string name="reboot_system_message">Repornire sistem\u2026</string>
+    <!-- LiveDisplay strings -->
+    <string name="live_display_auto">Automat</string>
+    <string name="live_display_auto_summary">Reglează automat temperatura culorii ecranului în funcție de apus și răsărit</string>
+    <string name="live_display_off">Oprit</string>
+    <string name="live_display_off_summary">Dezactivează toate ajustările</string>
+    <string name="live_display_day">Zi</string>
+    <string name="live_display_day_summary">Utilizați numai setările de zi</string>
+    <string name="live_display_night">Noapte</string>
+    <string name="live_display_night_summary">Utilizați numai setările de noapte</string>
+    <string name="live_display_outdoor">În aer liber (soare strălucitor)</string>
+    <string name="live_display_outdoor_summary">Utilizați numai setările în aer liber</string>
+    <string name="live_display_hint">LiveDisplay poate ajuta la reducerea oboselii ochilor și vă ajută să dormiți la noapte. Click aici pentru a-l încerca!</string>
+    <string name="accessibility_quick_settings_live_display_off">LiveDisplay este oprit.</string>
+    <string name="accessibility_quick_settings_live_display_auto">LiveDisplay: mod automat.</string>
+    <string name="accessibility_quick_settings_live_display_day">LiveDisplay: modul zi.</string>
+    <string name="accessibility_quick_settings_live_display_night">LiveDisplay: modul noapte.</string>
+    <string name="accessibility_quick_settings_live_display_outdoor">LiveDisplay: modul aer liber.</string>
+    <string name="accessibility_quick_settings_live_display_changed_off">LiveDisplay este dezactivat.</string>
+    <string name="accessibility_quick_settings_live_display_changed_auto">LiveDisplay s-a schimbat pe modul automat.</string>
+    <string name="accessibility_quick_settings_live_display_changed_day">LiveDisplay s-a schimbat la modul zi.</string>
+    <string name="accessibility_quick_settings_live_display_changed_night">LiveDisplay s-a schimbat la modul noapte.</string>
+    <string name="accessibility_quick_settings_live_display_changed_outdoor">LiveDisplay s-a schimbat la modul afară.</string>
+</resources>

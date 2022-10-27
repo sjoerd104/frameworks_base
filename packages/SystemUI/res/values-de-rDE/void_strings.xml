@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022 VoidUI
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Screen record -->
+    <string name="screenrecord_stopdot_label">Zeige Stop-Punkt</string>
+    <string name="screenrecord_stopdot_summary">Gedrückt halten zum Verschieben</string>
+    <string name="screenrecord_lowquality_label">Niedrigere Qualität</string>
+    <string name="screenrecord_lowquality_summary">Für kleinere Dateigrößen</string>
+    <string name="screenrecord_longer_timeout_switch_label">Größere Dateigrößenbegrenzung</string>
+    <string name="screenrecord_longer_timeout_switch_summary">Aufnahmegröße auf 15 GB begrenzen</string>
+    <string name="screenrecord_skip_time_label">Timer überspringen</string>
+    <string name="screenrecord_skip_time_summary">3-Sekunden Wartezeit deaktivieren</string>
+    <!-- Power Menu -->
+    <string name="global_action_reboot">Neustart</string>
+    <string name="global_action_reboot_more">Erweitert</string>
+    <string name="global_action_reboot_sub">System</string>
+    <string name="global_action_reboot_recovery">Recovery</string>
+    <string name="global_action_reboot_bootloader">Bootloader</string>
+    <string name="global_action_settings">Einstellungen</string>
+    <!-- Caffeine tile -->
+    <string name="quick_settings_caffeine_label">Caffeine</string>
+    <string name="accessibility_quick_settings_caffeine_off">Caffeine aus</string>
+    <string name="accessibility_quick_settings_caffeine_on">Caffeine an</string>
+    <!-- DataSwitch Tile -->
+    <string name="qs_data_switch_label">Daten Sim-Karte wechseln</string>
+    <string name="qs_data_switch_toast_0">Derzeit ist keine SIM-Karte eingelegt</string>
+    <string name="qs_data_switch_toast_1">Derzeit ist nur eine SIM-Karte eingelegt</string>
+    <string name="qs_data_switch_text_1">SIM 1</string>
+    <string name="qs_data_switch_text_2">SIM 2</string>
+    <string name="qs_data_switch_changed_1">Datenkarte auf SIM 1 umgeschaltet.</string>
+    <string name="qs_data_switch_changed_2">Datenkarte wurde auf SIM 2 umgestellt.</string>
+    <!-- USB tethering QS tile -->
+    <string name="quick_settings_usb_tether_label">USB Tethering</string>
+    <!-- Reader mode QS tile -->
+    <string name="quick_settings_reading_mode">Lesemodus</string>
+    <string name="accessibility_quick_settings_reading_mode_on">Lesemodus an.</string>
+    <string name="accessibility_quick_settings_reading_mode_off">Lesemodus aus.</string>
+    <string name="accessibility_quick_settings_reading_mode_changed_on">Lesemodus aktiviert.</string>
+    <string name="accessibility_quick_settings_reading_mode_changed_off">Lesemodus deaktiviert.</string>
+    <!-- Anti flicker QS tile -->
+    <string name="quick_settings_anti_flicker">Anti-Flimmern</string>
+    <!-- Heads up QS tile -->
+    <string name="quick_settings_heads_up_label">Heads-Up</string>
+    <string name="accessibility_quick_settings_heads_up_off">Heads-Up aus.</string>
+    <string name="accessibility_quick_settings_heads_up_on">Heads-Up an.</string>
+    <string name="accessibility_quick_settings_heads_up_changed_off">Heads-Up deaktiviert.</string>
+    <string name="accessibility_quick_settings_heads_up_changed_on">Pop-Up eingeschaltet.</string>
+    <!-- Sync QS tile -->
+    <string name="quick_settings_sync_label">Sync</string>
+    <string name="accessibility_quick_settings_sync_off">Sync aus.</string>
+    <string name="accessibility_quick_settings_sync_on">Sync an.</string>
+    <string name="accessibility_quick_settings_sync_changed_off">Sync deaktiviert.</string>
+    <string name="accessibility_quick_settings_sync_changed_on">Sync aktiviert.</string>
+    <!-- Ambient display QS tile -->
+    <string name="quick_settings_ambient_display_label">Inaktivitätsdisplay</string>
+    <string name="accessibility_quick_settings_ambient_display_off">Inaktivitätsdisplay aus.</string>
+    <string name="accessibility_quick_settings_ambient_display_on">Inaktivitätsdisplay an.</string>
+    <string name="accessibility_quick_settings_ambient_display_changed_off">Inaktivitätsdisplay ausgeschaltet.</string>
+    <string name="accessibility_quick_settings_ambient_display_changed_on">Inaktivitätsdisplay eingeschaltet.</string>
+    <!-- Auto Brightness QS tile -->
+    <string name="quick_settings_autobrightness_label">Auto-Helligkeit</string>
+    <!-- CPUInfo tile -->
+    <string name="quick_settings_cpuinfo_label">CPU-Info</string>
+    <!-- FPS Info tile -->
+    <string name="quick_settings_fpsinfo_label">FPS Info</string>
+    <!-- FPS view text placeholder -->
+</resources>

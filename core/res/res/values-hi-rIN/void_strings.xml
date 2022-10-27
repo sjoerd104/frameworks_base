@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022 VoidUI
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Global actions -->
+    <string name="reboot_to_bootloader_title">Reboot bootloader</string>
+    <string name="reboot_to_bootloader_message">Rebooting to bootloader\u2026</string>
+    <string name="reboot_to_recovery_title">Reboot recovery</string>
+    <string name="reboot_to_recovery_message">Rebooting to recovery\u2026</string>
+    <string name="reboot_system_title">Restart system</string>
+    <string name="reboot_system_message">Restarting system\u2026</string>
+    <!-- LiveDisplay strings -->
+    <string name="live_display_auto">आटोमेटिक</string>
+    <string name="live_display_auto_summary">सूर्यास्त और सूर्योदय के हिसाब से स्क्रीन के रंग तापमान को स्वत: समायोजित करें</string>
+    <string name="live_display_off">बंद</string>
+    <string name="live_display_off_summary">सभी एडजस्टमेंट बंद करें</string>
+    <string name="live_display_day">दिन</string>
+    <string name="live_display_day_summary">केवल दिन की व्यवस्था का उपयोग करें</string>
+    <string name="live_display_night">रात</string>
+    <string name="live_display_night_summary">केवल रात की व्यवस्था का ही इस्तेमाल करें</string>
+    <string name="live_display_outdoor">घर के बाहर (चमकीला सूरज)</string>
+    <string name="live_display_outdoor_summary">केवल घर के बाहर की वव्यस्था उपयोग करें</string>
+    <string name="live_display_hint">लाइव स्क्रीन आंखों के तनाव को कम कर आपको रात में सोने में मदद करता है। इसे प्रयोग करने के लिए यहाँ क्लिक करें!</string>
+    <string name="accessibility_quick_settings_live_display_off">लाइव स्क्रीन बंद।</string>
+    <string name="accessibility_quick_settings_live_display_auto">लाइव स्क्रीन: स्वयं मोड</string>
+    <string name="accessibility_quick_settings_live_display_day">लाइव स्क्रीन: दिन की तरह</string>
+    <string name="accessibility_quick_settings_live_display_night">लाइव स्क्रीन: रात्रि की तरह</string>
+    <string name="accessibility_quick_settings_live_display_outdoor">लाइव स्क्रीन: बाहर की तरह</string>
+    <string name="accessibility_quick_settings_live_display_changed_off">लाइव स्क्रीन बंद</string>
+    <string name="accessibility_quick_settings_live_display_changed_auto">लाइव स्क्रीन मोड में बदल गया</string>
+    <string name="accessibility_quick_settings_live_display_changed_day">लाइव स्क्रीन दिन की तरह किया गया</string>
+    <string name="accessibility_quick_settings_live_display_changed_night">लाइव स्क्रीन की तरह किया गया</string>
+    <string name="accessibility_quick_settings_live_display_changed_outdoor">लाइव स्क्रीन बहारी मोड में बदल गया</string>
+</resources>

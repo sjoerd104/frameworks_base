@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022 VoidUI
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Screen record -->
+    <string name="screenrecord_stopdot_label">Toon stop stip</string>
+    <string name="screenrecord_stopdot_summary">Lang indrukken om het te verplaatsen</string>
+    <string name="screenrecord_lowquality_label">Lagere kwaliteit</string>
+    <string name="screenrecord_lowquality_summary">Voor kleinere bestandsgrootte</string>
+    <string name="screenrecord_longer_timeout_switch_label">Grotere bestandsgrootte limiet</string>
+    <string name="screenrecord_longer_timeout_switch_summary">Beperk opnamegrootte tot 15 GB</string>
+    <string name="screenrecord_skip_time_label">Timer overslaan</string>
+    <string name="screenrecord_skip_time_summary">Verwijder 3 seconden wachten</string>
+    <!-- Power Menu -->
+    <string name="global_action_reboot">Herstarten</string>
+    <string name="global_action_reboot_more">Geavanceerd</string>
+    <string name="global_action_reboot_sub">Systeem</string>
+    <string name="global_action_reboot_recovery">Herstellen</string>
+    <string name="global_action_reboot_bootloader">Bootloader</string>
+    <string name="global_action_settings">Instellingen</string>
+    <!-- Caffeine tile -->
+    <string name="quick_settings_caffeine_label">Caffeine</string>
+    <string name="accessibility_quick_settings_caffeine_off">Cafeïne uitgeschakeld</string>
+    <string name="accessibility_quick_settings_caffeine_on">Cafeïne ingeschakeld</string>
+    <!-- DataSwitch Tile -->
+    <string name="qs_data_switch_label">Gegevenskaart wijzigen</string>
+    <string name="qs_data_switch_toast_0">Momenteel is er geen SIM-kaart geplaatst</string>
+    <string name="qs_data_switch_toast_1">Momenteel is slechts één SIM-kaart geplaatst</string>
+    <string name="qs_data_switch_text_1">SIM 1</string>
+    <string name="qs_data_switch_text_2">SIM 2</string>
+    <string name="qs_data_switch_changed_1">Gegevenskaart overgezet naar SIM 1.</string>
+    <string name="qs_data_switch_changed_2">Gegevenskaart overgezet naar SIM 2.</string>
+    <!-- USB tethering QS tile -->
+    <string name="quick_settings_usb_tether_label">USB tethering</string>
+    <!-- Reader mode QS tile -->
+    <string name="quick_settings_reading_mode">Leesmodus</string>
+    <string name="accessibility_quick_settings_reading_mode_on">Leesmodus aan.</string>
+    <string name="accessibility_quick_settings_reading_mode_off">Leesmodus uit.</string>
+    <string name="accessibility_quick_settings_reading_mode_changed_on">Leesmodus ingeschakeld.</string>
+    <string name="accessibility_quick_settings_reading_mode_changed_off">Leesmodus uitgeschakeld.</string>
+    <!-- Anti flicker QS tile -->
+    <string name="quick_settings_anti_flicker">Anti flikker</string>
+    <!-- Heads up QS tile -->
+    <string name="quick_settings_heads_up_label">Zwevende meldingen</string>
+    <string name="accessibility_quick_settings_heads_up_off">Zwevende meldingen uit.</string>
+    <string name="accessibility_quick_settings_heads_up_on">Zwevende meldingen aan.</string>
+    <string name="accessibility_quick_settings_heads_up_changed_off">Zwevende meldingen uitgeschakeld.</string>
+    <string name="accessibility_quick_settings_heads_up_changed_on">Heads-up ingeschakeld.</string>
+    <!-- Sync QS tile -->
+    <string name="quick_settings_sync_label">Synchroniseren</string>
+    <string name="accessibility_quick_settings_sync_off">Synchronisatie uit.</string>
+    <string name="accessibility_quick_settings_sync_on">Synchronisatie aan.</string>
+    <string name="accessibility_quick_settings_sync_changed_off">Synchronisatie uitgeschakeld.</string>
+    <string name="accessibility_quick_settings_sync_changed_on">Synchronisatie ingeschakeld.</string>
+    <!-- Ambient display QS tile -->
+    <string name="quick_settings_ambient_display_label">Actieve display</string>
+    <string name="accessibility_quick_settings_ambient_display_off">Omgevingsdisplay uit.</string>
+    <string name="accessibility_quick_settings_ambient_display_on">Actieve display aan.</string>
+    <string name="accessibility_quick_settings_ambient_display_changed_off">Actieve display uitgeschakeld.</string>
+    <string name="accessibility_quick_settings_ambient_display_changed_on">Actieve display ingeschakeld.</string>
+    <!-- Auto Brightness QS tile -->
+    <string name="quick_settings_autobrightness_label">Automatische helderheid</string>
+    <!-- CPUInfo tile -->
+    <string name="quick_settings_cpuinfo_label">CPU Info</string>
+    <!-- FPS Info tile -->
+    <string name="quick_settings_fpsinfo_label">FPS Info</string>
+    <!-- FPS view text placeholder -->
+</resources>

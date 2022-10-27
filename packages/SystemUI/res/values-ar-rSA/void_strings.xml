@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022 VoidUI
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Screen record -->
+    <string name="screenrecord_stopdot_label">إظهار نقطة التوقف</string>
+    <string name="screenrecord_stopdot_summary">الضغط المطول لتحريكه</string>
+    <string name="screenrecord_lowquality_label">جودة منخفضة</string>
+    <string name="screenrecord_lowquality_summary">حجم ملف أصغر</string>
+    <string name="screenrecord_longer_timeout_switch_label">حجم ملف أكبر</string>
+    <string name="screenrecord_longer_timeout_switch_summary">الحد من حجم التسجيل إلى 15 جيجابايت</string>
+    <string name="screenrecord_skip_time_label">تخطي المؤقت</string>
+    <string name="screenrecord_skip_time_summary">إزالة 3 ثانية انتظار</string>
+    <!-- Power Menu -->
+    <string name="global_action_reboot">إعادة التشغيل</string>
+    <string name="global_action_reboot_more">متقدم</string>
+    <string name="global_action_reboot_sub">النظام</string>
+    <string name="global_action_reboot_recovery">Recovery</string>
+    <string name="global_action_reboot_bootloader">Bootloader</string>
+    <string name="global_action_settings">الإعدادات</string>
+    <!-- Caffeine tile -->
+    <string name="quick_settings_caffeine_label">وضع الكافيين</string>
+    <string name="accessibility_quick_settings_caffeine_off">إيقاف وضع الكافيين</string>
+    <string name="accessibility_quick_settings_caffeine_on">تشغيل وضع الكافيين</string>
+    <!-- DataSwitch Tile -->
+    <string name="qs_data_switch_label">تبديل بطاقة البيانات</string>
+    <string name="qs_data_switch_toast_0">لا توجد بطاقة SIM حاليا</string>
+    <string name="qs_data_switch_toast_1">يتم حالياً إدخال شريحة SIM واحدة فقط</string>
+    <string name="qs_data_switch_text_1">SIM 1</string>
+    <string name="qs_data_switch_text_2">SIM 2</string>
+    <string name="qs_data_switch_changed_1">تم تبديل بطاقة البيانات إلى بطاقة SIM 1.</string>
+    <string name="qs_data_switch_changed_2">تم تبديل بطاقة البيانات إلى شريحة SIM 2.</string>
+    <!-- USB tethering QS tile -->
+    <string name="quick_settings_usb_tether_label">USB tethering</string>
+    <!-- Reader mode QS tile -->
+    <string name="quick_settings_reading_mode">وضع القراءة</string>
+    <string name="accessibility_quick_settings_reading_mode_on">وضع القراءة مفعل.</string>
+    <string name="accessibility_quick_settings_reading_mode_off">وضع القراءة متوقف.</string>
+    <string name="accessibility_quick_settings_reading_mode_changed_on">تم تشغيل وضع القراءة.</string>
+    <string name="accessibility_quick_settings_reading_mode_changed_off">تم إيقاف وضع القراءة.</string>
+    <!-- Anti flicker QS tile -->
+    <string name="quick_settings_anti_flicker">مضاد الوميض</string>
+    <!-- Heads up QS tile -->
+    <string name="quick_settings_heads_up_label">التنبيهات العلوية</string>
+    <string name="accessibility_quick_settings_heads_up_off">إيقاف الإشعارات العلوية.</string>
+    <string name="accessibility_quick_settings_heads_up_on">تشغيل التنبيهات العلوية.</string>
+    <string name="accessibility_quick_settings_heads_up_changed_off">تم إيقاف الإشعارات العلوية.</string>
+    <string name="accessibility_quick_settings_heads_up_changed_on">تم تشغيل التنبيهات العلوية.</string>
+    <!-- Sync QS tile -->
+    <string name="quick_settings_sync_label">مزامنة</string>
+    <string name="accessibility_quick_settings_sync_off">إيقاف المزامنة.</string>
+    <string name="accessibility_quick_settings_sync_on">تشغيل المزامنة.</string>
+    <string name="accessibility_quick_settings_sync_changed_off">تم إيقاف المزامنة.</string>
+    <string name="accessibility_quick_settings_sync_changed_on">تم تشغيل المزامنة.</string>
+    <!-- Ambient display QS tile -->
+    <string name="quick_settings_ambient_display_label">عرض المحيط</string>
+    <string name="accessibility_quick_settings_ambient_display_off">تم إيقاف العرض المحيط.</string>
+    <string name="accessibility_quick_settings_ambient_display_on">تشغيل العرض المحيط.</string>
+    <string name="accessibility_quick_settings_ambient_display_changed_off">تم إيقاف تشغيل العرض المحيط.</string>
+    <string name="accessibility_quick_settings_ambient_display_changed_on">تم تشغيل العرض المحيط.</string>
+    <!-- Auto Brightness QS tile -->
+    <string name="quick_settings_autobrightness_label">السطوع التلقائي</string>
+    <!-- CPUInfo tile -->
+    <string name="quick_settings_cpuinfo_label">معلومات المعالج</string>
+    <!-- FPS Info tile -->
+    <string name="quick_settings_fpsinfo_label">معلومات FPS</string>
+    <!-- FPS view text placeholder -->
+</resources>

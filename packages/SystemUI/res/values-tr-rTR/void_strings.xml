@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022 VoidUI
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Screen record -->
+    <string name="screenrecord_stopdot_label">Dur noktasını göster</string>
+    <string name="screenrecord_stopdot_summary">Taşımak için uzun basın</string>
+    <string name="screenrecord_lowquality_label">Düşük kalite</string>
+    <string name="screenrecord_lowquality_summary">Daha küçük dosya boyutu için</string>
+    <string name="screenrecord_longer_timeout_switch_label">Daha büyük dosya boyutu sınırı</string>
+    <string name="screenrecord_longer_timeout_switch_summary">Kayıt boyutunu 15 GB ile sınırlayın</string>
+    <string name="screenrecord_skip_time_label">Zamanlayıcıyı atla</string>
+    <string name="screenrecord_skip_time_summary">3 saniye beklemeyi kaldırın</string>
+    <!-- Power Menu -->
+    <string name="global_action_reboot">Yeniden Başlat</string>
+    <string name="global_action_reboot_more">Gelişmiş</string>
+    <string name="global_action_reboot_sub">Sistem</string>
+    <string name="global_action_reboot_recovery">Kurtarma</string>
+    <string name="global_action_reboot_bootloader">Önyükleyici</string>
+    <string name="global_action_settings">Ayarlar</string>
+    <!-- Caffeine tile -->
+    <string name="quick_settings_caffeine_label">Kafein</string>
+    <string name="accessibility_quick_settings_caffeine_off">Kafein kapalı</string>
+    <string name="accessibility_quick_settings_caffeine_on">Kafein üzerinde</string>
+    <!-- DataSwitch Tile -->
+    <string name="qs_data_switch_label">Veri kartını değiştir</string>
+    <string name="qs_data_switch_toast_0">Şu anda SIM kart takılı değil</string>
+    <string name="qs_data_switch_toast_1">Şu anda yalnızca bir SIM kart takılı</string>
+    <string name="qs_data_switch_text_1">SIM 1</string>
+    <string name="qs_data_switch_text_2">SIM 2</string>
+    <string name="qs_data_switch_changed_1">Veri kartı SIM 1\'e değiştirildi.</string>
+    <string name="qs_data_switch_changed_2">Veri kartı SIM 2\'ye değiştirildi.</string>
+    <!-- USB tethering QS tile -->
+    <string name="quick_settings_usb_tether_label">USB bağlantısı</string>
+    <!-- Reader mode QS tile -->
+    <string name="quick_settings_reading_mode">Okuma modu</string>
+    <string name="accessibility_quick_settings_reading_mode_on">Okuma modu açık.</string>
+    <string name="accessibility_quick_settings_reading_mode_off">Okuma modu kapalı.</string>
+    <string name="accessibility_quick_settings_reading_mode_changed_on">Okuma modu açık.</string>
+    <string name="accessibility_quick_settings_reading_mode_changed_off">Okuma modu kapatıldı.</string>
+    <!-- Anti flicker QS tile -->
+    <string name="quick_settings_anti_flicker">Titreşim önleyici</string>
+    <!-- Heads up QS tile -->
+    <string name="quick_settings_heads_up_label">Dikkat</string>
+    <string name="accessibility_quick_settings_heads_up_off">Başlar yukarı.</string>
+    <string name="accessibility_quick_settings_heads_up_on">Dikkatli olun.</string>
+    <string name="accessibility_quick_settings_heads_up_changed_off">Kafalar kapalı.</string>
+    <string name="accessibility_quick_settings_heads_up_changed_on">Kafalar açık.</string>
+    <!-- Sync QS tile -->
+    <string name="quick_settings_sync_label">Senkronizasyon</string>
+    <string name="accessibility_quick_settings_sync_off">Senkronizasyon kapalı.</string>
+    <string name="accessibility_quick_settings_sync_on">Senkronizasyon açık.</string>
+    <string name="accessibility_quick_settings_sync_changed_off">Senkronizasyon kapalı.</string>
+    <string name="accessibility_quick_settings_sync_changed_on">Senkronizasyon açık.</string>
+    <!-- Ambient display QS tile -->
+    <string name="quick_settings_ambient_display_label">Ortam göstergesi</string>
+    <string name="accessibility_quick_settings_ambient_display_off">Ortam ekranı kapalı.</string>
+    <string name="accessibility_quick_settings_ambient_display_on">Ortam ekranı açık.</string>
+    <string name="accessibility_quick_settings_ambient_display_changed_off">Ortam ekranı kapatıldı.</string>
+    <string name="accessibility_quick_settings_ambient_display_changed_on">Ortam ekranı açıldı.</string>
+    <!-- Auto Brightness QS tile -->
+    <string name="quick_settings_autobrightness_label">Otomatik parlaklık</string>
+    <!-- CPUInfo tile -->
+    <string name="quick_settings_cpuinfo_label">CPU Bilgisi</string>
+    <!-- FPS Info tile -->
+    <string name="quick_settings_fpsinfo_label">FPS Bilgisi</string>
+    <!-- FPS view text placeholder -->
+</resources>

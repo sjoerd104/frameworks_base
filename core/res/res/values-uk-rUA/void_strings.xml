@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022 VoidUI
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Global actions -->
+    <string name="reboot_to_bootloader_title">Перезавантажитись у Bootloader</string>
+    <string name="reboot_to_bootloader_message">Перезавантаження у Bootloader\u2026</string>
+    <string name="reboot_to_recovery_title">Перезавантаження у рекавері</string>
+    <string name="reboot_to_recovery_message">Перезавантаження у режим відновлення\u2026</string>
+    <string name="reboot_system_title">Перезавантажити систему</string>
+    <string name="reboot_system_message">Перезапуск системи\u2026</string>
+    <!-- LiveDisplay strings -->
+    <string name="live_display_auto">Автоматично</string>
+    <string name="live_display_auto_summary">Автоматичне підлаштування температури кольору екрана після сходу та заходу сонця</string>
+    <string name="live_display_off">Вимкнено</string>
+    <string name="live_display_off_summary">Вимкнути всі налаштування</string>
+    <string name="live_display_day">День</string>
+    <string name="live_display_day_summary">Використовувати тільки денні налаштування</string>
+    <string name="live_display_night">Ніч</string>
+    <string name="live_display_night_summary">Використовувати тільки нічні налаштування</string>
+    <string name="live_display_outdoor">Надворі (яскраве сонце)</string>
+    <string name="live_display_outdoor_summary">Використовувати параметри для яскравого освітлення надворі</string>
+    <string name="live_display_hint">LiveDisplay допоможе зменшити навантаження на зір та покращить сон. Натисніть тут, щоб спробувати його!</string>
+    <string name="accessibility_quick_settings_live_display_off">LiveDisplay вимкнений.</string>
+    <string name="accessibility_quick_settings_live_display_auto">LiveDisplay: автоматичний режим.</string>
+    <string name="accessibility_quick_settings_live_display_day">LiveDisplay: денний режим.</string>
+    <string name="accessibility_quick_settings_live_display_night">LiveDisplay: нічний режим.</string>
+    <string name="accessibility_quick_settings_live_display_outdoor">LiveDisplay: режим на відкритому повітрі.</string>
+    <string name="accessibility_quick_settings_live_display_changed_off">LiveDisplay вимкнено.</string>
+    <string name="accessibility_quick_settings_live_display_changed_auto">LiveDisplay змінено на автоматичний режим.</string>
+    <string name="accessibility_quick_settings_live_display_changed_day">LiveDisplay змінено на денний режим.</string>
+    <string name="accessibility_quick_settings_live_display_changed_night">LiveDisplay змінено до нічного режиму.</string>
+    <string name="accessibility_quick_settings_live_display_changed_outdoor">LiveDisplay змінено до режиму на вулиці.</string>
+</resources>

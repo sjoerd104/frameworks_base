@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022 VoidUI
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Screen record -->
+    <string name="screenrecord_stopdot_label">Afișare stop punct</string>
+    <string name="screenrecord_stopdot_summary">Apăsați lung pentru a muta</string>
+    <string name="screenrecord_lowquality_label">Calitate scăzută</string>
+    <string name="screenrecord_lowquality_summary">Pentru o dimensiune mai mică a fișierului</string>
+    <string name="screenrecord_longer_timeout_switch_label">Limita mai mare a dimensiunii fișierului</string>
+    <string name="screenrecord_longer_timeout_switch_summary">Limitează dimensiunea înregistrării la 15 GB</string>
+    <string name="screenrecord_skip_time_label">Omite cronometrul</string>
+    <string name="screenrecord_skip_time_summary">Elimină cele 3 secunde de așteptare</string>
+    <!-- Power Menu -->
+    <string name="global_action_reboot">Repornire</string>
+    <string name="global_action_reboot_more">Avansat</string>
+    <string name="global_action_reboot_sub">Sistem</string>
+    <string name="global_action_reboot_recovery">Recuperare</string>
+    <string name="global_action_reboot_bootloader">Bootloader</string>
+    <string name="global_action_settings">Setări</string>
+    <!-- Caffeine tile -->
+    <string name="quick_settings_caffeine_label">Cafeină</string>
+    <string name="accessibility_quick_settings_caffeine_off">Cafeină oprită</string>
+    <string name="accessibility_quick_settings_caffeine_on">Cafeină pornită</string>
+    <!-- DataSwitch Tile -->
+    <string name="qs_data_switch_label">Schimbă cardul de date</string>
+    <string name="qs_data_switch_toast_0">În prezent nu este introdusă nicio cartelă SIM</string>
+    <string name="qs_data_switch_toast_1">În prezent este introdusă o singură cartelă SIM</string>
+    <string name="qs_data_switch_text_1">SIM 1</string>
+    <string name="qs_data_switch_text_2">SIM 2</string>
+    <string name="qs_data_switch_changed_1">S-a schimbat cardul de date la SIM 1.</string>
+    <string name="qs_data_switch_changed_2">S-a schimbat cardul de date la SIM 2.</string>
+    <!-- USB tethering QS tile -->
+    <string name="quick_settings_usb_tether_label">Tethering USB</string>
+    <!-- Reader mode QS tile -->
+    <string name="quick_settings_reading_mode">Mod lectură</string>
+    <string name="accessibility_quick_settings_reading_mode_on">Mod lectură activat.</string>
+    <string name="accessibility_quick_settings_reading_mode_off">Mod lectură dezactivat.</string>
+    <string name="accessibility_quick_settings_reading_mode_changed_on">Modul lectură a fost activat.</string>
+    <string name="accessibility_quick_settings_reading_mode_changed_off">Modul lectură a fost dezactivat.</string>
+    <!-- Anti flicker QS tile -->
+    <string name="quick_settings_anti_flicker">Anti flicker</string>
+    <!-- Heads up QS tile -->
+    <string name="quick_settings_heads_up_label">Atenționări</string>
+    <string name="accessibility_quick_settings_heads_up_off">Atenționări dezactivate.</string>
+    <string name="accessibility_quick_settings_heads_up_on">Atenționări activate.</string>
+    <string name="accessibility_quick_settings_heads_up_changed_off">Atenționările au fost dezactivate.</string>
+    <string name="accessibility_quick_settings_heads_up_changed_on">Atenționările au fost activate.</string>
+    <!-- Sync QS tile -->
+    <string name="quick_settings_sync_label">Sincronizare</string>
+    <string name="accessibility_quick_settings_sync_off">Sincronizare oprită.</string>
+    <string name="accessibility_quick_settings_sync_on">Sincronizare pornită.</string>
+    <string name="accessibility_quick_settings_sync_changed_off">Sincronizarea oprită.</string>
+    <string name="accessibility_quick_settings_sync_changed_on">Sincronizarea pornită.</string>
+    <!-- Ambient display QS tile -->
+    <string name="quick_settings_ambient_display_label">Afișaj ambiental</string>
+    <string name="accessibility_quick_settings_ambient_display_off">Afișaj ambiental oprit.</string>
+    <string name="accessibility_quick_settings_ambient_display_on">Afișaj ambiental activat.</string>
+    <string name="accessibility_quick_settings_ambient_display_changed_off">Afișajul ambiental a fost dezactivat.</string>
+    <string name="accessibility_quick_settings_ambient_display_changed_on">Afișajul ambiental a fost activat.</string>
+    <!-- Auto Brightness QS tile -->
+    <string name="quick_settings_autobrightness_label">Luminozitate automată</string>
+    <!-- CPUInfo tile -->
+    <string name="quick_settings_cpuinfo_label">Informații CPU</string>
+    <!-- FPS Info tile -->
+    <string name="quick_settings_fpsinfo_label">Informații FPS</string>
+    <!-- FPS view text placeholder -->
+</resources>

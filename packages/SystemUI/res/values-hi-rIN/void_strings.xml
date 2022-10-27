@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022 VoidUI
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Screen record -->
+    <string name="screenrecord_stopdot_label">बंद करने के लिए बिंदु दिखाएं</string>
+    <string name="screenrecord_stopdot_summary">हटाने के लिए दबाएं रखे </string>
+    <string name="screenrecord_lowquality_label">लोअर क्वालिटी </string>
+    <string name="screenrecord_lowquality_summary">छोटी फाइल साइज के लिए</string>
+    <string name="screenrecord_longer_timeout_switch_label">बड़े फाइल साइज के लिए</string>
+    <string name="screenrecord_longer_timeout_switch_summary">रिकॉर्डिंग को 15 जीबी तक रखे </string>
+    <string name="screenrecord_skip_time_label">टाइमर हटाएं </string>
+    <string name="screenrecord_skip_time_summary">3 सेकंड वेटिंग को हटाएं </string>
+    <!-- Power Menu -->
+    <string name="global_action_reboot">Restart</string>
+    <string name="global_action_reboot_more">Advanced</string>
+    <string name="global_action_reboot_sub">System</string>
+    <string name="global_action_reboot_recovery">Recovery</string>
+    <string name="global_action_reboot_bootloader">Bootloader</string>
+    <string name="global_action_settings">Settings</string>
+    <!-- Caffeine tile -->
+    <string name="quick_settings_caffeine_label">कैफीन</string>
+    <string name="accessibility_quick_settings_caffeine_off">Caffeine off</string>
+    <string name="accessibility_quick_settings_caffeine_on">Caffeine on</string>
+    <!-- DataSwitch Tile -->
+    <string name="qs_data_switch_label">Switch data card</string>
+    <string name="qs_data_switch_toast_0">Currently no SIM card is inserted</string>
+    <string name="qs_data_switch_toast_1">Currently only one SIM card is inserted</string>
+    <string name="qs_data_switch_text_1">SIM 1</string>
+    <string name="qs_data_switch_text_2">SIM 2</string>
+    <string name="qs_data_switch_changed_1">Switched data card to SIM 1.</string>
+    <string name="qs_data_switch_changed_2">Switched data card to SIM 2.</string>
+    <!-- USB tethering QS tile -->
+    <string name="quick_settings_usb_tether_label">USB tethering</string>
+    <!-- Reader mode QS tile -->
+    <string name="quick_settings_reading_mode">पढ़ाई मोड</string>
+    <string name="accessibility_quick_settings_reading_mode_on">पढ़ाई मोड चालू </string>
+    <string name="accessibility_quick_settings_reading_mode_off">पढ़ाई मोड बंद</string>
+    <string name="accessibility_quick_settings_reading_mode_changed_on">पढ़ाई मोड चालू है।</string>
+    <string name="accessibility_quick_settings_reading_mode_changed_off">रीडिंग मोड बंद हैं </string>
+    <!-- Anti flicker QS tile -->
+    <string name="quick_settings_anti_flicker">डिस्प्लेलाईन हटाएं</string>
+    <!-- Heads up QS tile -->
+    <string name="quick_settings_heads_up_label">Heads up</string>
+    <string name="accessibility_quick_settings_heads_up_off">Heads up off.</string>
+    <string name="accessibility_quick_settings_heads_up_on">Heads up on.</string>
+    <string name="accessibility_quick_settings_heads_up_changed_off">Heads up turned off.</string>
+    <string name="accessibility_quick_settings_heads_up_changed_on">Heads up turned on.</string>
+    <!-- Sync QS tile -->
+    <string name="quick_settings_sync_label">Sync</string>
+    <string name="accessibility_quick_settings_sync_off">Sync off.</string>
+    <string name="accessibility_quick_settings_sync_on">Sync on.</string>
+    <string name="accessibility_quick_settings_sync_changed_off">Sync turned off.</string>
+    <string name="accessibility_quick_settings_sync_changed_on">Sync turned on.</string>
+    <!-- Ambient display QS tile -->
+    <string name="quick_settings_ambient_display_label">रंग डिस्प्ले</string>
+    <string name="accessibility_quick_settings_ambient_display_off">परिवेश बंद</string>
+    <string name="accessibility_quick_settings_ambient_display_on">परिवेश स्क्रीन चालु</string>
+    <string name="accessibility_quick_settings_ambient_display_changed_off">परिवेश स्क्रीन बंद</string>
+    <string name="accessibility_quick_settings_ambient_display_changed_on">परिवेश प्रदर्शन को चालू किया गया है।</string>
+    <!-- Auto Brightness QS tile -->
+    <string name="quick_settings_autobrightness_label">Auto brightness</string>
+    <!-- CPUInfo tile -->
+    <string name="quick_settings_cpuinfo_label">CPU Info</string>
+    <!-- FPS Info tile -->
+    <string name="quick_settings_fpsinfo_label">FPS Info</string>
+    <!-- FPS view text placeholder -->
+</resources>

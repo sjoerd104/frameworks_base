@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022 VoidUI
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Screen record -->
+    <string name="screenrecord_stopdot_label">Показувати кнопку зупинки запису</string>
+    <string name="screenrecord_stopdot_summary">Тривале натискання щоб перемістити її</string>
+    <string name="screenrecord_lowquality_label">Низька якість</string>
+    <string name="screenrecord_lowquality_summary">Для меншого розміру файлу</string>
+    <string name="screenrecord_longer_timeout_switch_label">Обмеження розміру файлу у великому списку</string>
+    <string name="screenrecord_longer_timeout_switch_summary">Обмежити розмір запису до 15 ГБ</string>
+    <string name="screenrecord_skip_time_label">Пропустити таймер</string>
+    <string name="screenrecord_skip_time_summary">Видалити 3 секундне очікування</string>
+    <!-- Power Menu -->
+    <string name="global_action_reboot">Перезапустити</string>
+    <string name="global_action_reboot_more">Додатково</string>
+    <string name="global_action_reboot_sub">Система</string>
+    <string name="global_action_reboot_recovery">Рекавері</string>
+    <string name="global_action_reboot_bootloader">Завантажувач</string>
+    <string name="global_action_settings">Налаштування</string>
+    <!-- Caffeine tile -->
+    <string name="quick_settings_caffeine_label">Caffeine</string>
+    <string name="accessibility_quick_settings_caffeine_off">Заборона сну вимкнена</string>
+    <string name="accessibility_quick_settings_caffeine_on">Заборона сну увімк</string>
+    <!-- DataSwitch Tile -->
+    <string name="qs_data_switch_label">Змінити картку для передачі даних</string>
+    <string name="qs_data_switch_toast_0">Наразі не вставлено SIM-карту</string>
+    <string name="qs_data_switch_toast_1">Вставлено лише одну SIM-карту</string>
+    <string name="qs_data_switch_text_1">SIM 1</string>
+    <string name="qs_data_switch_text_2">SIM 2</string>
+    <string name="qs_data_switch_changed_1">Переключено карту даних на SIM-карту 1.</string>
+    <string name="qs_data_switch_changed_2">Переключено карту даних на SIM-карту 2.</string>
+    <!-- USB tethering QS tile -->
+    <string name="quick_settings_usb_tether_label">USB-модем</string>
+    <!-- Reader mode QS tile -->
+    <string name="quick_settings_reading_mode">Режим читання</string>
+    <string name="accessibility_quick_settings_reading_mode_on">Режим читання увімкнено.</string>
+    <string name="accessibility_quick_settings_reading_mode_off">Режим читання вимкнуто.</string>
+    <string name="accessibility_quick_settings_reading_mode_changed_on">Режим читання увімкнено.</string>
+    <string name="accessibility_quick_settings_reading_mode_changed_off">Режим читання вимкнено.</string>
+    <!-- Anti flicker QS tile -->
+    <string name="quick_settings_anti_flicker">Анті-флікер</string>
+    <!-- Heads up QS tile -->
+    <string name="quick_settings_heads_up_label">Спливаючі сповіщення</string>
+    <string name="accessibility_quick_settings_heads_up_off">Спливаючі сповіщення вимкнуті.</string>
+    <string name="accessibility_quick_settings_heads_up_on">Спливаючі сповіщення увімк.</string>
+    <string name="accessibility_quick_settings_heads_up_changed_off">Спливаючі сповіщення вимкнено.</string>
+    <string name="accessibility_quick_settings_heads_up_changed_on">Спливаючі сповіщення увімкнено.</string>
+    <!-- Sync QS tile -->
+    <string name="quick_settings_sync_label">Синхр</string>
+    <string name="accessibility_quick_settings_sync_off">Синхронізація вимк.</string>
+    <string name="accessibility_quick_settings_sync_on">Синхр. увімк.</string>
+    <string name="accessibility_quick_settings_sync_changed_off">Синхронізацію вимкнено.</string>
+    <string name="accessibility_quick_settings_sync_changed_on">Синхронізацію увімкнено.</string>
+    <!-- Ambient display QS tile -->
+    <string name="quick_settings_ambient_display_label">Розширений дисплей</string>
+    <string name="accessibility_quick_settings_ambient_display_off">Активний дисплей вимкнено.</string>
+    <string name="accessibility_quick_settings_ambient_display_on">Активний дисплей увімкнено.</string>
+    <string name="accessibility_quick_settings_ambient_display_changed_off">Ambient Display вимкнено.</string>
+    <string name="accessibility_quick_settings_ambient_display_changed_on">Ambient Display увімкнено.</string>
+    <!-- Auto Brightness QS tile -->
+    <string name="quick_settings_autobrightness_label">Автоматична яскравість</string>
+    <!-- CPUInfo tile -->
+    <string name="quick_settings_cpuinfo_label">Інформація про ЦП</string>
+    <!-- FPS Info tile -->
+    <string name="quick_settings_fpsinfo_label">Інформація про FPS</string>
+    <!-- FPS view text placeholder -->
+</resources>

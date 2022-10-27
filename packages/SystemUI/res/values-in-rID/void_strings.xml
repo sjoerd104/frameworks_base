@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022 VoidUI
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Screen record -->
+    <string name="screenrecord_stopdot_label">Tampilkan titik berhenti</string>
+    <string name="screenrecord_stopdot_summary">Tekan lama untuk memindahkannya</string>
+    <string name="screenrecord_lowquality_label">Kualitas rendah</string>
+    <string name="screenrecord_lowquality_summary">Untuk ukuran file yang lebih kecil</string>
+    <string name="screenrecord_longer_timeout_switch_label">Batas ukuran file lebih besar</string>
+    <string name="screenrecord_longer_timeout_switch_summary">Batasi ukuran perekaman hingga 15 GB</string>
+    <string name="screenrecord_skip_time_label">Lewati penghitung waktu</string>
+    <string name="screenrecord_skip_time_summary">Hapus 3 detik menunggu</string>
+    <!-- Power Menu -->
+    <string name="global_action_reboot">Mulai ulang</string>
+    <string name="global_action_reboot_more">Lanjutan</string>
+    <string name="global_action_reboot_sub">Sistem</string>
+    <string name="global_action_reboot_recovery">Pemulihan</string>
+    <string name="global_action_reboot_bootloader">Bootloader</string>
+    <string name="global_action_settings">Pengaturan</string>
+    <!-- Caffeine tile -->
+    <string name="quick_settings_caffeine_label">Batas Waktu Layar</string>
+    <string name="accessibility_quick_settings_caffeine_off">Batas Waktu Layar dimatikan</string>
+    <string name="accessibility_quick_settings_caffeine_on">Batas Waktu Layar diaktifkan</string>
+    <!-- DataSwitch Tile -->
+    <string name="qs_data_switch_label">Ganti kartu data seluler</string>
+    <string name="qs_data_switch_toast_0">Tidak ada kartu SIM yang terpasang saat ini</string>
+    <string name="qs_data_switch_toast_1">Hanya satu kartu SIM yang terpasang saat ini</string>
+    <string name="qs_data_switch_text_1">SIM 1</string>
+    <string name="qs_data_switch_text_2">SIM 2</string>
+    <string name="qs_data_switch_changed_1">Gunakan SIM 1 untuk Data Seluler.</string>
+    <string name="qs_data_switch_changed_2">Gunakan SIM 2 untuk Data Seluler.</string>
+    <!-- USB tethering QS tile -->
+    <string name="quick_settings_usb_tether_label">Penambatan USB</string>
+    <!-- Reader mode QS tile -->
+    <string name="quick_settings_reading_mode">Mode membaca</string>
+    <string name="accessibility_quick_settings_reading_mode_on">Mode membaca aktif.</string>
+    <string name="accessibility_quick_settings_reading_mode_off">Mode membaca nonaktif.</string>
+    <string name="accessibility_quick_settings_reading_mode_changed_on">Mode membaca diaktifkan.</string>
+    <string name="accessibility_quick_settings_reading_mode_changed_off">Mode membaca dinonaktifkan.</string>
+    <!-- Anti flicker QS tile -->
+    <string name="quick_settings_anti_flicker">Anti kerlip</string>
+    <!-- Heads up QS tile -->
+    <string name="quick_settings_heads_up_label">Notifikasi mengambang</string>
+    <string name="accessibility_quick_settings_heads_up_off">Notifikasi mengambang mati.</string>
+    <string name="accessibility_quick_settings_heads_up_on">Notifikasi mengambang aktif.</string>
+    <string name="accessibility_quick_settings_heads_up_changed_off">Notifikasi mengambang dimatikan.</string>
+    <string name="accessibility_quick_settings_heads_up_changed_on">Notifikasi mengambang diaktifkan.</string>
+    <!-- Sync QS tile -->
+    <string name="quick_settings_sync_label">Sinkron</string>
+    <string name="accessibility_quick_settings_sync_off">Sinkronisasi mati.</string>
+    <string name="accessibility_quick_settings_sync_on">Sinkronisasi hidup.</string>
+    <string name="accessibility_quick_settings_sync_changed_off">Sinkronisasi dimatikan.</string>
+    <string name="accessibility_quick_settings_sync_changed_on">Sinkronisasi diaktifkan.</string>
+    <!-- Ambient display QS tile -->
+    <string name="quick_settings_ambient_display_label">Tampilan Ambien</string>
+    <string name="accessibility_quick_settings_ambient_display_off">Tampilan Ambient mati.</string>
+    <string name="accessibility_quick_settings_ambient_display_on">Tampilan ambient aktif.</string>
+    <string name="accessibility_quick_settings_ambient_display_changed_off">Tampilan Ambient dimatikan.</string>
+    <string name="accessibility_quick_settings_ambient_display_changed_on">Tampilan ambient dihidupkan.</string>
+    <!-- Auto Brightness QS tile -->
+    <string name="quick_settings_autobrightness_label">Kecerahan otomatis</string>
+    <!-- CPUInfo tile -->
+    <string name="quick_settings_cpuinfo_label">Info CPU</string>
+    <!-- FPS Info tile -->
+    <string name="quick_settings_fpsinfo_label">Info FPS</string>
+    <!-- FPS view text placeholder -->
+</resources>

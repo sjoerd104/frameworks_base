@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022 VoidUI
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Screen record -->
+    <string name="screenrecord_stopdot_label">显示停止按钮</string>
+    <string name="screenrecord_stopdot_summary">长按移动</string>
+    <string name="screenrecord_lowquality_label">低画质</string>
+    <string name="screenrecord_lowquality_summary">压缩录屏文件</string>
+    <string name="screenrecord_longer_timeout_switch_label">文件大小限制</string>
+    <string name="screenrecord_longer_timeout_switch_summary">限制录屏文件大小为 15GB</string>
+    <string name="screenrecord_skip_time_label">跳过倒计时</string>
+    <string name="screenrecord_skip_time_summary">跳过 3 秒倒计时</string>
+    <!-- Power Menu -->
+    <string name="global_action_reboot">重新启动</string>
+    <string name="global_action_reboot_more">重启\u2026</string>
+    <string name="global_action_reboot_sub">系统</string>
+    <string name="global_action_reboot_recovery">恢复模式</string>
+    <string name="global_action_reboot_bootloader">引导模式</string>
+    <string name="global_action_settings">设置</string>
+    <!-- Caffeine tile -->
+    <string name="quick_settings_caffeine_label">保持亮屏</string>
+    <string name="accessibility_quick_settings_caffeine_off">保持亮屏关闭</string>
+    <string name="accessibility_quick_settings_caffeine_on">保持亮屏开启</string>
+    <!-- DataSwitch Tile -->
+    <string name="qs_data_switch_label">切换移动数据卡</string>
+    <string name="qs_data_switch_toast_0">当前没有插入 SIM 卡</string>
+    <string name="qs_data_switch_toast_1">当前仅插入了一张 SIM 卡</string>
+    <string name="qs_data_switch_text_1">SIM 卡 1</string>
+    <string name="qs_data_switch_text_2">SIM 卡 2</string>
+    <string name="qs_data_switch_changed_1">已将移动数据卡切换到 SIM 卡 1</string>
+    <string name="qs_data_switch_changed_2">已将移动数据卡切换到 SIM 卡 2</string>
+    <!-- USB tethering QS tile -->
+    <string name="quick_settings_usb_tether_label">USB 网络共享</string>
+    <!-- Reader mode QS tile -->
+    <string name="quick_settings_reading_mode">阅读模式</string>
+    <string name="accessibility_quick_settings_reading_mode_on">开启阅读模式</string>
+    <string name="accessibility_quick_settings_reading_mode_off">关闭阅读模式</string>
+    <string name="accessibility_quick_settings_reading_mode_changed_on">阅读模式已开启</string>
+    <string name="accessibility_quick_settings_reading_mode_changed_off">阅读模式已关闭</string>
+    <!-- Anti flicker QS tile -->
+    <string name="quick_settings_anti_flicker">防闪烁</string>
+    <!-- Heads up QS tile -->
+    <string name="quick_settings_heads_up_label">浮动通知</string>
+    <string name="accessibility_quick_settings_heads_up_off">浮动通知已关闭</string>
+    <string name="accessibility_quick_settings_heads_up_on">浮动通知已开启</string>
+    <string name="accessibility_quick_settings_heads_up_changed_off">浮动通知已关闭</string>
+    <string name="accessibility_quick_settings_heads_up_changed_on">浮动通知已开启</string>
+    <!-- Sync QS tile -->
+    <string name="quick_settings_sync_label">同步</string>
+    <string name="accessibility_quick_settings_sync_off">同步已关闭</string>
+    <string name="accessibility_quick_settings_sync_on">同步已开启</string>
+    <string name="accessibility_quick_settings_sync_changed_off">同步已关闭</string>
+    <string name="accessibility_quick_settings_sync_changed_on">同步已开启</string>
+    <!-- Ambient display QS tile -->
+    <string name="quick_settings_ambient_display_label">环境显示</string>
+    <string name="accessibility_quick_settings_ambient_display_off">关闭环境显示</string>
+    <string name="accessibility_quick_settings_ambient_display_on">开启环境显示</string>
+    <string name="accessibility_quick_settings_ambient_display_changed_off">环境显示已关闭</string>
+    <string name="accessibility_quick_settings_ambient_display_changed_on">环境显示已开启</string>
+    <!-- Auto Brightness QS tile -->
+    <string name="quick_settings_autobrightness_label">自动亮度</string>
+    <!-- CPUInfo tile -->
+    <string name="quick_settings_cpuinfo_label">CPU 信息</string>
+    <!-- FPS Info tile -->
+    <string name="quick_settings_fpsinfo_label">FPS 信息</string>
+    <!-- FPS view text placeholder -->
+</resources>

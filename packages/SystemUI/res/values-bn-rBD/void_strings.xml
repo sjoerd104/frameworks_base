@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022 VoidUI
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Screen record -->
+    <string name="screenrecord_stopdot_label">স্টপ ডট দেখান</string>
+    <string name="screenrecord_stopdot_summary">সরানোর জন্য বেশীক্ষণ চেপে ধরুন</string>
+    <string name="screenrecord_lowquality_label">নিম্নতর মান</string>
+    <string name="screenrecord_lowquality_summary">ছোট আকারের ফাইলের জন্য</string>
+    <string name="screenrecord_longer_timeout_switch_label">বৃহত্তর আকারের ফাইলের সীমা</string>
+    <string name="screenrecord_longer_timeout_switch_summary">রেকর্ডের সাইজ ১৫ জিবি পর্যন্ত সীমাবদ্ধ রাখুন</string>
+    <string name="screenrecord_skip_time_label">টাইমার উহ্য রাখুন</string>
+    <string name="screenrecord_skip_time_summary">৩ সেকেন্ডের অপেক্ষা বাতিল করুন</string>
+    <!-- Power Menu -->
+    <string name="global_action_reboot">রিস্টার্ট</string>
+    <string name="global_action_reboot_more">বিস্তারিত</string>
+    <string name="global_action_reboot_sub">সিস্টেম</string>
+    <string name="global_action_reboot_recovery">রিকভারি</string>
+    <string name="global_action_reboot_bootloader">বুটলোডার</string>
+    <string name="global_action_settings">সেটিংস</string>
+    <!-- Caffeine tile -->
+    <string name="quick_settings_caffeine_label">ক্যাফেইন</string>
+    <string name="accessibility_quick_settings_caffeine_off">ক্যাফেইন বন্ধ</string>
+    <string name="accessibility_quick_settings_caffeine_on">ক্যাফেইন চালু</string>
+    <!-- DataSwitch Tile -->
+    <string name="qs_data_switch_label">ডেটা সিমকার্ড পরিবর্তন</string>
+    <string name="qs_data_switch_toast_0">বর্তমানে ফোনে কোন সিম কার্ড নেই</string>
+    <string name="qs_data_switch_toast_1">বর্তমানে শুধুমাত্র একটি সিমকার্ড আছে</string>
+    <string name="qs_data_switch_text_1">সিম ১</string>
+    <string name="qs_data_switch_text_2">সিম ২</string>
+    <string name="qs_data_switch_changed_1">ডেটা কার্ড সিম ১ এ নিয়োজিত হয়েছে.</string>
+    <string name="qs_data_switch_changed_2">ডেটা মোড সিম ২ তে নিয়োজিত হয়েছে</string>
+    <!-- USB tethering QS tile -->
+    <string name="quick_settings_usb_tether_label">USB টেদারিং</string>
+    <!-- Reader mode QS tile -->
+    <string name="quick_settings_reading_mode">পড়ার মোড ব্যবহার করুন</string>
+    <string name="accessibility_quick_settings_reading_mode_on">রিডিং মোড চালু</string>
+    <string name="accessibility_quick_settings_reading_mode_off">পড়ার মোড বন্ধ।</string>
+    <string name="accessibility_quick_settings_reading_mode_changed_on">পড়ার মোড চালু।</string>
+    <string name="accessibility_quick_settings_reading_mode_changed_off">পড়ার মোড বন্ধ হয়েছে।</string>
+    <!-- Anti flicker QS tile -->
+    <string name="quick_settings_anti_flicker">অ্যান্টি ফ্লিকার</string>
+    <!-- Heads up QS tile -->
+    <string name="quick_settings_heads_up_label">হেডস আপ</string>
+    <string name="accessibility_quick_settings_heads_up_off">হেডস আপ বন্ধ</string>
+    <string name="accessibility_quick_settings_heads_up_on">হেডস আপ চালু.</string>
+    <string name="accessibility_quick_settings_heads_up_changed_off">হেডস আপ বন্ধ করা হয়েছে.</string>
+    <string name="accessibility_quick_settings_heads_up_changed_on">হেডস আপ সক্রিয় রয়েছে.</string>
+    <!-- Sync QS tile -->
+    <string name="quick_settings_sync_label">সিঙ্ক</string>
+    <string name="accessibility_quick_settings_sync_off">সিঙ্ক বন্ধ করুন</string>
+    <string name="accessibility_quick_settings_sync_on">সিঙ্ক চালু করুন</string>
+    <string name="accessibility_quick_settings_sync_changed_off">সিঙ্ক বন্ধ রয়েছে।</string>
+    <string name="accessibility_quick_settings_sync_changed_on">সিঙ্ক চালু হয়েছে।</string>
+    <!-- Ambient display QS tile -->
+    <string name="quick_settings_ambient_display_label">অ্যামবিয়েন্ট ডিসপ্লে</string>
+    <string name="accessibility_quick_settings_ambient_display_off">অ্যাম্বিয়েন্ট ডিসপ্লে বন্ধ.</string>
+    <string name="accessibility_quick_settings_ambient_display_on">অ্যাম্বিয়েন্ট ডিসপ্লে চালু.</string>
+    <string name="accessibility_quick_settings_ambient_display_changed_off">অ্যাম্বিয়েন্ট ডিসপ্লে বন্ধ করা হয়েছে.</string>
+    <string name="accessibility_quick_settings_ambient_display_changed_on">অ্যাম্বিয়েন্ট ডিসপ্লে চালু করা হয়েছে.</string>
+    <!-- Auto Brightness QS tile -->
+    <string name="quick_settings_autobrightness_label">স্বতঃউজ্জ্বলতা</string>
+    <!-- CPUInfo tile -->
+    <string name="quick_settings_cpuinfo_label">সিপিইউ সম্পর্কিত তথ্য</string>
+    <!-- FPS Info tile -->
+    <string name="quick_settings_fpsinfo_label">ফ্রেম পার সেকেন্ড তথ্য</string>
+    <!-- FPS view text placeholder -->
+</resources>

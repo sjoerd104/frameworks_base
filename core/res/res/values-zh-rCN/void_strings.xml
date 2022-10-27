@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2022 VoidUI
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Global actions -->
+    <string name="reboot_to_bootloader_title">重启至引导模式</string>
+    <string name="reboot_to_bootloader_message">正在重启至引导模式\u2026</string>
+    <string name="reboot_to_recovery_title">重启至恢复模式</string>
+    <string name="reboot_to_recovery_message">正在重启至恢复模式\u2026</string>
+    <string name="reboot_system_title">重启系统</string>
+    <string name="reboot_system_message">正在重启系统\u2026</string>
+    <!-- LiveDisplay strings -->
+    <string name="live_display_auto">自动</string>
+    <string name="live_display_auto_summary">随着日出和日落自动调节屏幕色温</string>
+    <string name="live_display_off">关闭</string>
+    <string name="live_display_off_summary">禁用所有调整</string>
+    <string name="live_display_day">日间</string>
+    <string name="live_display_day_summary">仅使用日间设置</string>
+    <string name="live_display_night">夜间</string>
+    <string name="live_display_night_summary">仅使用夜间设置</string>
+    <string name="live_display_outdoor">户外模式（强光）</string>
+    <string name="live_display_outdoor_summary">仅使用户外设置</string>
+    <string name="live_display_hint">LiveDisplay 能帮助您减轻眼疲劳，并在晚上帮助您入睡。点这里来试试吧！</string>
+    <string name="accessibility_quick_settings_live_display_off">LiveDisplay 关闭</string>
+    <string name="accessibility_quick_settings_live_display_auto">LiveDisplay：自动模式</string>
+    <string name="accessibility_quick_settings_live_display_day">LiveDisplay：日间模式</string>
+    <string name="accessibility_quick_settings_live_display_night">LiveDisplay：夜间模式</string>
+    <string name="accessibility_quick_settings_live_display_outdoor">LiveDisplay：户外模式</string>
+    <string name="accessibility_quick_settings_live_display_changed_off">LiveDisplay 已关闭</string>
+    <string name="accessibility_quick_settings_live_display_changed_auto">LiveDisplay 已切换为自动模式</string>
+    <string name="accessibility_quick_settings_live_display_changed_day">LiveDisplay 已切换为日间模式</string>
+    <string name="accessibility_quick_settings_live_display_changed_night">LiveDisplay 已切换为夜间模式</string>
+    <string name="accessibility_quick_settings_live_display_changed_outdoor">LiveDisPlay 已切换为户外模式</string>
+</resources>
