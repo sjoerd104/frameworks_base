@@ -141,9 +141,8 @@ public class ThemeOverlayApplier implements Dumpable {
     private final String mLauncherPackage;
     private final String mThemePickerPackage;
 
-    @Inject
     private boolean mIsBlackTheme;
-
+	@Inject
     public ThemeOverlayApplier(OverlayManager overlayManager,
             @Background Executor bgExecutor,
             @Named(ThemeModule.LAUNCHER_PACKAGE) String launcherPackage,
